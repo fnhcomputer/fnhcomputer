@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fnhcomputer
+- 👋 Hi, I’m Faruque Ahmed 
 - 👀 I’m interested in Data analysis
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Business analysis
